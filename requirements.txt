@@ -1,6 +1,6 @@
 scikit-learn
 pandas
-numpy
+numpy==1.26.4
 flask
 matplotlib
 seaborn
@@ -15,4 +15,9 @@ streamlit
 nbformat
 nltk
 datasets
+prometheus-client
+grafana-api
+docker
+jupyter
+optuna
 

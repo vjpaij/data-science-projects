@@ -8,3 +8,4 @@ Projects:
 3) Linear Regression - Predict house prices based on various features like area, number of bedrooms, location etc using classic regression
 4) Convolutional Neural Networks (CNN) - Building an image classification system using PyTorch
 5) Natural Language Processing (NLP) - Analyze text data and and classify the sentiment expressed in that text (Sentimental Analysis)
+6) Customer Churn Prediction - Predicting whether a customer will leave a service using Deep Learning
