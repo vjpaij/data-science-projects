@@ -4,9 +4,15 @@ numpy
 flask
 matplotlib
 seaborn
+wordcloud
 plotly
-torch
+torch==2.1.2
+torchtext==0.16.2
 torchvision
+transformers
 Pillow
 streamlit
 nbformat
+nltk
+datasets
+
