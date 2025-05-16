@@ -24,4 +24,7 @@ optuna
 yfinance
 tqdm
 joblib
+opencv-python
+face-recognition
+python-dotenv
 
