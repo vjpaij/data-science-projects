@@ -15,9 +15,13 @@ streamlit
 nbformat
 nltk
 datasets
+streamlit-extras
 prometheus-client
 grafana-api
 docker
 jupyter
 optuna
+yfinance
+tqdm
+joblib
 

@@ -9,3 +9,4 @@ Projects:
 4) Convolutional Neural Networks (CNN) - Building an image classification system using PyTorch
 5) Natural Language Processing (NLP) - Analyze text data and and classify the sentiment expressed in that text (Sentimental Analysis)
 6) Customer Churn Prediction - Predicting whether a customer will leave a service using Deep Learning
+7) Stock Price Predictor - Using historical stock data, predict stock prices using Deep Learning
