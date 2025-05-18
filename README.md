@@ -11,3 +11,4 @@ Projects:
 6) Customer Churn Prediction - Predicting whether a customer will leave a service using Deep Learning.
 7) Stock Price Predictor - Using historical stock data, predict stock prices using Deep Learning.
 8) Face Recognition - Computer Vision (CV) application that can detect and identify faces in live video streams or static images.
+9) Movie Recommendation - Implement both collaborative filtering and content-based recommendation approaches.

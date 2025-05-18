@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Movie Recommender</title>
+</head>
+<body>
+    <h1>Movie Recommendations</h1>
+    
+    <form id="recForm">
+        <label for="user_id">User ID:</label>
+        <input type="number" id="user_id" required>
+        
+        <label for="movie_id">Movie ID (optional):</label>
+        <input type="number" id="movie_id">
+        
+        <button type="submit">Get Recommendations</button>
+    </form>
+    
+    <div id="results"></div>
+    
+    <script>
+        document.getElementById('recForm').addEventListener('submit', async (e) => {
+          e.preventDefault();
+          console.log("Form submitted!");  // Check if this appears in browser's DevTools (F12)
+          
+          try {
+            const response = await fetch('/recommend', {
+              method: 'POST',
+              headers: { 'Content-Type': 'application/json' },
+              body: JSON.stringify({
+                user_id: document.getElementById('user_id').value,
+                movie_id: document.getElementById('movie_id').value || null
+              })
+            });
+            
+            console.log("Response status:", response.status);  // Should log 200
+            const recommendations = await response.json();
+            console.log("Recommendations:", recommendations);  // Log raw data
+            
+            // Display logic here...
+          } catch (error) {
+            console.error("Request failed:", error);  // Critical for debugging
+          }
+        });
+      </script>
+</body>
+</html>
