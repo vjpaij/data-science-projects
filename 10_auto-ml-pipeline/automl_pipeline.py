@@ -172,7 +172,7 @@ def train_automl_model(X_train, y_train, time_limit=60):
     # Fit the AutoML model to the training data
     automl.fit(X_train, y_train, dataset_name='synthetic_data')
 
-return automl
+    return automl
 
 def evaluate_model(model, X_test, y_test):
     """
