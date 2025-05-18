@@ -1,11 +1,11 @@
 scikit-learn
 pandas
-numpy==1.26.4
+numpy==1.19.3
 flask
 flask-cors
 matplotlib
 seaborn
-scipy
+scipy==0.19.1
 wordcloud
 plotly
 torch==2.1.2
@@ -30,3 +30,4 @@ opencv-python
 face-recognition
 python-dotenv
 surprise
+auto-sklearn

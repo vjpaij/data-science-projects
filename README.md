@@ -12,3 +12,4 @@ Projects:
 7) Stock Price Predictor - Using historical stock data, predict stock prices using Deep Learning.
 8) Face Recognition - Computer Vision (CV) application that can detect and identify faces in live video streams or static images.
 9) Movie Recommendation - Implement both collaborative filtering and content-based recommendation approaches.
+10) Automated ML Pipeline - To develop an end-to-end machine learning pipeline that automates the process of feature selection, model selection, and hyperparameter tuning.
