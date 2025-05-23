@@ -13,3 +13,4 @@ Projects:
 8) Face Recognition - Computer Vision (CV) application that can detect and identify faces in live video streams or static images.
 9) Movie Recommendation - Implement both collaborative filtering and content-based recommendation approaches.
 10) Automated ML Pipeline - To develop an end-to-end machine learning pipeline that automates the process of feature selection, model selection, and hyperparameter tuning.
+11) A/B Testing - Developing a Robust A/B Testing Framework for Conversion Rate Optimization
