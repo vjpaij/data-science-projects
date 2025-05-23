@@ -30,4 +30,4 @@ opencv-python
 face-recognition
 python-dotenv
 surprise
-auto-sklearn
+# auto-sklearn
