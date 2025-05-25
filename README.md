@@ -14,3 +14,4 @@ Projects:
 9) Movie Recommendation - Implement both collaborative filtering and content-based recommendation approaches.
 10) Automated ML Pipeline - To develop an end-to-end machine learning pipeline that automates the process of feature selection, model selection, and hyperparameter tuning.
 11) A/B Testing - Developing a Robust A/B Testing Framework for Conversion Rate Optimization
+12) Image Generation System - Build an Image Generation System that can generate realistic images using Generative Adversarial Networks (GANs) or Diffusion Models (if GANs underperform)

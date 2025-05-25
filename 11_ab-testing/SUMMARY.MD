@@ -41,7 +41,7 @@ For this project, we will simulate a dataset representing an A/B test conducted 
 
 1. Clone this repository
 2. Install requirements: `pip install -r requirements.txt`
-3. Open and run the Main Analysis script - 'python ab_test_analysis.py'
+3. Open and run the Main Analysis script: 'python ab_test_analysis.py'
 4. For Streamlit: streamlit run 'streamlit run ab_test_app.py'
 
 * * *
