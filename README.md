@@ -15,3 +15,4 @@ Projects:
 10) Automated ML Pipeline - To develop an end-to-end machine learning pipeline that automates the process of feature selection, model selection, and hyperparameter tuning.
 11) A/B Testing - Developing a Robust A/B Testing Framework for Conversion Rate Optimization
 12) Image Generation System - Build an Image Generation System that can generate realistic images using Generative Adversarial Networks (GANs) or Diffusion Models (if GANs underperform)
+13) Multi-language NLP - To develop an end-to-end Natural Language Processing (NLP) pipeline capable of performing sentiment analysis on text data in multiple languages.
